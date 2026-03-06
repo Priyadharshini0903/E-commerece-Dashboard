@@ -18,6 +18,7 @@ The dashboard provides a clear overview of business performance and helps identi
 • Track total quantity sold
 
 📊 Dashboard Features
+
 1️⃣ Key Metrics
 
 • Total Revenue: 4.35M
